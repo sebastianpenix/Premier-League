@@ -1,0 +1,141 @@
+body{
+    background-color: white;
+}
+
+.main-header{
+    border-bottom: solid;
+    border-color: #3d195b;
+    padding: 10px;
+}
+
+.selector-buttons{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    margin: 0;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+
+
+.nav-button{
+    border-radius: 50px;
+    border: none;
+    color: white;
+    width: 60px;
+    height: 60px;
+    margin: 5px;
+    font-family: monospace;
+    font-size: 20px;
+    box-shadow: 0px 3px 2.5px grey;
+}
+
+.nav-button:hover{
+    background-color: black;
+}
+
+
+.premier-league{
+    background-color: #3d195b;
+}
+
+.arsenal{
+    background-color: #EF0107;
+}
+
+.aston-villa{
+    background-color: #95bfe5;
+}
+
+.bournemouth{
+    background-color: #ba0f13;
+}
+
+.brentford{
+    background-color: #e30613;
+}
+
+.brighton-hove-albion{
+    background-color: #0057B8;
+}
+
+.chelsea{
+    background-color: #034694;
+}
+
+.crystal-palace{
+    background-color: #1b458f;
+}
+
+.everton{
+    background-color: #274488;
+}
+
+.fulham{
+    background-color: #cc0000;
+}
+
+.leeds{
+    background-color: #ac944d;
+}
+
+.leicester-city{
+    background-color: #0053a0;
+}
+
+.liverpool{
+    background-color: #d00027;
+}
+
+.manchester-city{
+    background-color: #6caddf;
+}
+
+.manchester-united{
+    background-color: #da020e;
+}
+
+.newcastle{
+    background-color: black;
+}
+
+.newcastle:hover{
+    background-color: grey;
+}
+
+.nottingham-forrest{
+    background-color: #e53233;
+}
+
+.southampton{
+    background-color: #ed1a3b;
+}
+
+.tottenham{
+    background-color: #132257;
+}
+
+.west-ham{
+    background-color: #7c2c3b;
+}
+
+.wolverhampton{
+    background-color: #fdb913;
+}
+
+.news-title{
+    font-family: radikal;
+    color: #3d195b;
+    font-size: 3vh;
+    display: flex;
+    justify-content: center;
+    line-height: 5px;
+    font-style: italic;
+}
+
+.title-logo{
+    height: 55x;
+    width: 55px;
+   padding: 15px;
+}
